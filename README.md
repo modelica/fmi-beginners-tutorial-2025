@@ -2,21 +2,21 @@
 
 ![FMI-tutorial-logo](FMI-tutorial-logo.png)
 
-![](https://insticc.org/images/wise/events/3758/banners/web.webp)
+![](https://modelica.org/events/modelica2025/images/Modelica_and_FMI_Confernce_Logo.svg)
 
-This repository contains the agenda and materials for the FMI Beginner's tutorial presented at the [SIMULTECH 2024](https://simultech.scitevents.org/) conference. 
+This repository contains the agenda and materials for the FMI Beginner's tutorial presented at the [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/). 
 
 ## Agenda
 
 | Time  | Topic                                        |
 | ----- | -------------------------------------------- |
-| 09:15 | Introduction to the FMI (Christian Bertsch)  |
-| 09:45 | Working with FMUs (Claudio Gomes)            |
-| 10:30 | Q&A                                          |
-| 10:40 | Break                                        |
-| 11:10 | Connecting Multiple FMUs (Maurizio Palmieri) |
-| 11:55 | Closing Session (Maurizio and Claudio)       |
-| 12:00 | Q&A                                          |
+| TBD | Introduction to the FMI (Christian Bertsch)  |
+| TBD | Working with FMUs (Claudio Gomes)            |
+| TBD | Q&A                                          |
+| TBD | Break                                        |
+| TBD | Connecting Multiple FMUs (Maurizio Palmieri) |
+| TBD | Closing Session (Maurizio and Claudio)       |
+| TBD | Q&A                                          |
 
 ## Part 1: Introduction to the FMI (40 min)
 
