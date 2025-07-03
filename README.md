@@ -10,13 +10,14 @@ This repository contains the agenda and materials for the FMI Beginner's tutoria
 
 | Time  | Topic                                        |
 | ----- | -------------------------------------------- |
-| TBD | Introduction to the FMI (Christian Bertsch)  |
-| TBD | Working with FMUs (Claudio Gomes)            |
-| TBD | Q&A                                          |
-| TBD | Break                                        |
-| TBD | Connecting Multiple FMUs (Maurizio Palmieri) |
-| TBD | Closing Session (Maurizio and Claudio)       |
-| TBD | Q&A                                          |
+| 13:30 | Introduction to the FMI (Christian Bertsch)  |
+| 14:15 | Working with FMUs (Claudio Gomes)            |
+| 14:45 | Q&A                                          |
+| 15:00 | Break                                        |
+| 15:30 | Connecting Multiple FMUs (Maurizio Palmieri) |
+| 16:15 | Outlook to FMI 3.0 (Christian Bertsch)       |
+| 16:30 | Q&A                                          |
+| 16:40 | End Tutorial                                 |
 
 ## Part 1: Introduction to the FMI (40 min)
 
@@ -40,7 +41,7 @@ by [Christian Bertsch](https://github.com/chrbertsch)
   1. download and install FMI Kit for Simulink
   2. open `Controller.slx` with grtfmi.tlc as a source code FMU
 
-## Part 2: Working with FMUs (45 min)
+## Part 2: Working with FMUs (30 min)
 
 by [Claudio Gomes](https://clagms.github.io/)
 
@@ -115,17 +116,15 @@ by [Maurizio Palmieri](https://github.com/mapalmieri)
     1. Co-simulation Scenario with Baseline
     2. Impact of Step Size on the Accuracy   
 
-## Part 4: Closing Session (10 min)
+## Part 4: Outlook to FMI 3.0 (15 min)
 
-by [Maurizio Palmieri](https://github.com/mapalmieri) and [Cláudio Gomes](https://github.com/clagms)
+by [Christian Bertsch](https://github.com/chrbertsch)
 
 Slides can be downloaded [here](./part4/FMI-overall.pdf).
 
 ### Schedule
-1. Overview of some FMI Applications
-2. Role of FMI in Digital twins.
-
-## Q&A (10 min)
+1. Outlook on FMI 3.0 Features 
+2. Synchronous Clocks Example
 
 # Copyright and License
 
