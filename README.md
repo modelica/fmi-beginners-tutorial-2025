@@ -131,3 +131,8 @@ Slides can be downloaded [here](./part4/FMI-overall.pdf).
 Code and documentation copyright (C) 2023 the Modelica Association Project FMI.
 Code released under the [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause).
 Docs released under [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
+# Acknowledgments
+
+We are thankful to [Torsten Sommer](https://github.com/t-sommer) for his contributions to this tutorial materials.
+In addition, part of this work has been supported by the DIGIT-Bench project (case no. 640222-497272), funded by the Energy Technology Development and Demonstration Programme (EUDP).
