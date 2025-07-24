@@ -15,7 +15,7 @@ This repository contains the agenda and materials for the FMI Beginner's tutoria
 | 14:45 | Q&A                                          |
 | 15:00 | Break                                        |
 | 15:30 | Connecting Multiple FMUs (Maurizio Palmieri) |
-| 16:15 | Outlook to FMI 3.0 (Christian Bertsch)       |
+| 16:10 | Outlook to FMI 3.0 (Christian Bertsch)       |
 | 16:30 | Q&A                                          |
 | 16:40 | End Tutorial                                 |
 
