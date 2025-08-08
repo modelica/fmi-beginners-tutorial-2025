@@ -18,9 +18,6 @@ This repository contains the agenda and materials for the FMI Beginner's tutoria
 | 16:10 | Outlook to FMI 3.0 (Christian Bertsch)       |
 | 16:25 | Q&A                                          |
 | 16:30 | End Tutorial                                 |
-| 16:10 | Outlook to FMI 3.0 (Christian Bertsch)       |
-| 16:25 | Q&A                                          |
-| 16:30 | End Tutorial                                 |
 
 ## Part 1: Introduction to the FMI (40 min)
 
