@@ -19,7 +19,7 @@ This repository contains the agenda and materials for the FMI Beginner's tutoria
 | 16:25 | Q&A                                          |
 | 16:30 | End Tutorial                                 |
 
-## Part 1: Introduction to the FMI (40 min)
+## Part 1: Introduction to the FMI (45 min)
 
 by [Christian Bertsch](https://github.com/chrbertsch)
 
@@ -72,11 +72,7 @@ Live demo + Jupyter notebook
   2. simulate the Drive model with fmusim using the input file and set a parameter
   3. plot the result CSV with Excel
 
-## Q&A (10 min)
-
-## Break (30 min)
-
-## Part 3: Connecting Multiple FMUs (45 min)
+## Part 3: Connecting Multiple FMUs (40 min)
 
 by [Maurizio Palmieri](https://github.com/mapalmieri)
 
