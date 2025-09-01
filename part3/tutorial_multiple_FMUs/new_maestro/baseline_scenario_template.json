@@ -1,9 +1,9 @@
 {
 	"fmus": {
-		"{stimuli}": "./fmus/Stimuli.fmu",
-		"{control}": "./fmus/Control.fmu",
-		"{drive}": "./fmus/Drive.fmu",
-		"{baseline}": "./fmus/MODELICA_Demo.ControlledElectricDrive.fmu"
+		"{stimuli}": "Stimuli.fmu",
+		"{control}": "Control.fmu",
+		"{drive}": "Drive.fmu",
+		"{baseline}": "MODELICA_Demo.ControlledElectricDrive.fmu"
 	},
 	"connections": {
 		"{stimuli}.stimuliInstance.w_desired": [

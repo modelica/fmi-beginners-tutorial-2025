@@ -2,8 +2,7 @@
 	"fmus": {
 		"{stimuli}": "Stimuli.fmu",
 		"{control}": "Control.fmu",
-		"{drive}": "Drive.fmu",
-		"{baseline}": "MODELICA_Demo.ControlledElectricDrive.fmu"
+		"{drive}": "Drive.fmu"
 	},
 	"connections": {
 		"{stimuli}.stimuliInstance.w_desired": [
@@ -20,11 +19,6 @@
 		]
 	},
 	"parameters": {},
-	"logVariables": {
-		"{baseline}.baselineInstance": ["w"],
-        "{drive}.driveInstance":["w"],
-"{stimuli}.stimuliInstance":["w_desired"]
-	},
 	"algorithm":{
 		"type":"fixed-step",
 		"size":0.001
