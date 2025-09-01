@@ -12,11 +12,10 @@ This repository contains the agenda and materials for the FMI Beginner's tutoria
 | ----- | -------------------------------------------- |
 | 13:30 | Introduction to the FMI (Christian Bertsch)  |
 | 14:15 | Working with FMUs (Claudio Gomes)            |
-| 14:45 | Q&A                                          |
-| 15:00 | Break                                        |
-| 15:30 | Connecting Multiple FMUs (Maurizio Palmieri) |
-| 16:10 | Outlook to FMI 3.0 (Christian Bertsch)       |
-| 16:25 | Q&A                                          |
+| 14:45 | Break                                        |
+| 15:15 | Connecting Multiple FMUs (Maurizio Palmieri) |
+| 16:00 | Outlook to FMI 3.0 (Christian Bertsch)       |
+| 16:20 | Q&A                                          |
 | 16:30 | End Tutorial                                 |
 
 ## Part 1: Introduction to the FMI (45 min)
@@ -27,7 +26,7 @@ by [Christian Bertsch](https://github.com/chrbertsch)
 
 ### Prerequisites
 
-- [Simulink with Coder](https://mathworks.com/products/simulink-coder.html) (optional) and [FMI Kit](https://github.com/CATIA-Systems/FMIKit-Simulink) (optional)
+- [MATLAB/Simulink](https://www.mathworks.com/products/simulink.html) (optional)
 
 ### Schedule
 
