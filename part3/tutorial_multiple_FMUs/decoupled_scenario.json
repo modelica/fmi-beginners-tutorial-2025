@@ -1,8 +1,8 @@
 {
 	"fmus": {
-		"{stimuli}": "./fmus/Stimuli.fmu",
-		"{control}": "./fmus/Control.fmu",
-		"{drive}": "./fmus/Drive.fmu"
+		"{stimuli}": "Stimuli.fmu",
+		"{control}": "Control.fmu",
+		"{drive}": "Drive.fmu"
 	},
 	"connections": {
 		"{stimuli}.stimuliInstance.w_desired": [

@@ -1,6 +1,6 @@
 {
 	"fmus": {
-		"{baseline}": "./fmus/MODELICA_Demo.ControlledElectricDrive.fmu"
+		"{baseline}": "MODELICA_Demo.ControlledElectricDrive.fmu"
 	},
 	"connections": {
 	},
