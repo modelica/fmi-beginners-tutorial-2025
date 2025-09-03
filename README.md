@@ -47,7 +47,6 @@ by [Claudio Gomes](https://clagms.github.io/)
 ### Prerequisites
 
 - [Python with fmpy[complete]](https://github.com/CATIA-Systems/FMPy#installation)
-- [Dymola](https://www.3ds.com/products-services/catia/products/dymola/) (optional)
 
 ### Schedule
 
