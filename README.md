@@ -128,5 +128,5 @@ Docs released under [Attribution-ShareAlike 4.0 International](https://creativec
 
 # Acknowledgments
 
-We are thankful to [Torsten Sommer](https://github.com/t-sommer) for his contributions to this tutorial materials.
+We are thankful to [Torsten Sommer](https://github.com/t-sommer) for his contributions to this tutorial materials, and to [Kenneth Lausdahl](https://blog.lausdahl.com/) as well as the other developers of the INTO-CPS tool and Maestro.
 In addition, part of this work has been supported by the DIGIT-Bench project (case no. 640222-497272), funded by the Energy Technology Development and Demonstration Programme (EUDP).
