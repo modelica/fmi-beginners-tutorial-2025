@@ -68,7 +68,8 @@ Live demo + Jupyter notebook
 3. simulate an FMU with created jupyter notebook
   1. download the Drive FMU
   2. simulate the Drive model with fmusim using the input file and set a parameter
-  3. plot the result CSV with Excel
+  3. dump(fmu)
+  4. inspect results
 
 ## Part 3: Connecting Multiple FMUs (40 min)
 
