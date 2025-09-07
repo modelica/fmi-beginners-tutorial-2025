@@ -37,9 +37,7 @@ by [Christian Bertsch](https://github.com/chrbertsch)
 4. an outlook on FMI 3.0
 5. FMU export (from Dymola)
   1. open `MODELICA_Demo.Drive` in Dymola and export it as a source code FMU
-6. FMU export (from Simulink with FMIKit)
-  1. download and install FMI Kit for Simulink
-  2. open `Controller.slx` with grtfmi.tlc as a source code FMU
+6. FMU import in MATLAB/Simulink
 
 ## Part 2: Working with FMUs (30 min)
 
