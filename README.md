@@ -27,6 +27,7 @@ by [Christian Bertsch](https://github.com/chrbertsch)
 ### Prerequisites
 
 - [MATLAB/Simulink](https://www.mathworks.com/products/simulink.html) (optional)
+- [Dymola](https://www.3ds.com/products/catia/dymola) (optional)
 
 ### Schedule
 
