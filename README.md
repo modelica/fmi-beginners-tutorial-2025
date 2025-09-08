@@ -114,7 +114,7 @@ by [Maurizio Palmieri](https://github.com/mapalmieri)
 
 by [Christian Bertsch](https://github.com/chrbertsch)
 
-Slides can be downloaded [here](./part4/FMI-overall.pdf).
+Slides can be downloaded [here](./part4/FMI3_Outlook.pdf).
 
 ### Schedule
 1. Outlook on FMI 3.0 Features 
