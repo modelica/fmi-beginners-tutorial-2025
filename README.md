@@ -115,6 +115,10 @@ by [Christian Bertsch](https://github.com/chrbertsch)
 
 Slides can be downloaded [here](./part4/FMI3_Outlook.pdf).
 
+FMI 3.0 examples: 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrbertsch/fmi3-features/blob/main/)
+
 ### Schedule
 1. Outlook on FMI 3.0 Features 
 2. Synchronous Clocks Example
