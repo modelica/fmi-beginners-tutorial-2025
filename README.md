@@ -35,8 +35,7 @@ by [Christian Bertsch](https://github.com/chrbertsch)
 2. general technical concepts
 3. tool support
 4. an outlook on FMI 3.0
-5. FMU export (from Dymola)
-  1. open `MODELICA_Demo.Drive` in Dymola and export it as a source code FMU
+5. FMU export (in Dymola: open `MODELICA_Demo.Drive` export it as a source code FMU)
 6. FMU import in MATLAB/Simulink
 
 ## Part 2: Working with FMUs (30 min)
