@@ -6,6 +6,8 @@
 
 This repository contains the agenda and materials for the FMI Beginner's tutorial presented at the [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/). 
 
+A Video Recording is available on [YouTube](https://www.youtube.com/watch?v=iOHmxC1iLRM)
+
 ## Agenda
 
 | Time  | Topic                                        |
